@@ -1,0 +1,12 @@
+appId: com.gst.pdq
+productName: PDQ App
+copyright: Copyright © 2023 PhongPT10
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null

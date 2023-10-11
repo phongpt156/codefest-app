@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.mt-3 {
+  margin-top: 1rem;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.positive {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
